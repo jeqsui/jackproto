@@ -1,0 +1,19 @@
+{
+  "name": "jackproto",
+  "version": "1.0.0",
+  "description": "jeq's proto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeqsui/jackproto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeqsui/jackproto/issues"
+  },
+  "homepage": "https://github.com/jeqsui/jackproto#readme"
+}
